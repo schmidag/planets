@@ -2,7 +2,7 @@
 sandbox for git workshop
 Hosted by the DH Lab
 
-## Instructore 
+## Instructors
 Stephen Appel
 
 ## Helpers
